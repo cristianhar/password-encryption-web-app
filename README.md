@@ -22,20 +22,20 @@ Esta aplicación web permite encriptar y desencriptar contraseñas utilizando un
 3. **Abre el archivo index.html en tu navegador para usar la aplicación**
 
 ## **Uso**
-Ingresar Contraseña: Escribe la contraseña que deseas encriptar en el campo de entrada.
-Encriptar: Haz clic en el botón "Encriptar" para obtener el código encriptado.
-Desencriptar: Ingresa un código encriptado modificado y haz clic en "Desencriptar" para recuperar el texto original.
-Verificar: Usa el botón "Verificar" para comparar el código encriptado actual con el original y verificar si ha sido modificado.
+- Ingresar Contraseña: Escribe la contraseña que deseas encriptar en el campo de entrada.
+- Encriptar: Haz clic en el botón "Encriptar" para obtener el código encriptado.
+- Desencriptar: Ingresa un código encriptado modificado y haz clic en "Desencriptar" para recuperar el texto original.
+- Verificar: Usa el botón "Verificar" para comparar el código encriptado actual con el original y verificar si ha sido modificado.
 
 ## **Tecnologías Utilizadas**
-HTML: Estructura del contenido web.
-CSS: Estilos y diseño visual.
-JavaScript: Lógica de encriptación, desencriptación y verificación.
-Bootstrap: Framework CSS para un diseño responsivo y moderno.
+- HTML: Estructura del contenido web.
+- CSS: Estilos y diseño visual.
+- JavaScript: Lógica de encriptación, desencriptación y verificación.
+- Bootstrap: Framework CSS para un diseño responsivo y moderno.
 
 ## **Estructura del Proyecto**
-index.html: Contiene el HTML de la interfaz de usuario.
-script.js: Contiene la lógica de encriptación, desencriptación y verificación en JavaScript.
+- index.html: Contiene el HTML de la interfaz de usuario.
+- script.js: Contiene la lógica de encriptación, desencriptación y verificación en JavaScript.
 
 
     
